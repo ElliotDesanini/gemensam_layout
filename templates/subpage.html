@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+
+{% block heading %}
+{{ heading }}
+{% endblock %}
+
+{% block content %}
+<div id="container">
+    
+    <div id="content0">
+        {% for line in content[0] %}
+        {{ line }} <br>
+    
+        {% endfor %}
+    </div>
+    
+    <div id="content1">
+        {% for line in content[1] %}
+        {{ line }} <br>
+        
+        {% endfor %}
+    </div>
+    
+</div>
+
+{% endblock %}

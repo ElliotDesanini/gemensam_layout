@@ -1,0 +1,23 @@
+{
+    "main": {
+        "heading": "Welcome",
+        "content":[
+        ["Welcome to our website. We're here to make things simple, clear, and useful. Whether you're discovering us for the first time or coming back for more, you'll find everything you need in one convenient place. ", "Our goal is to create a straightforward experience that puts helpful information and quality service first. Take a look around, explore what we offer, and see how we can help."],
+        ["Simple ideas. Thoughtful solutions. A better experience. ", "Explore our website to learn more about who we are, what we do, and how to get in touch."]
+    ]
+},
+    "about": {
+        "heading": "About Us",
+        "content":[
+        ["We believe good work starts with good ideas. Our approach is focused on creating meaningful results while keeping the process approachable and easy to understand. ", "Over time, we've built our experience by learning, adapting, and paying attention to the details that matter. Every project gives us an opportunity to improve and create something a little better than before."],
+        ["We value creativity, reliability, and clear communication. ", "Our work is guided by a simple principle: focus on what matters and keep moving forward."]
+    ]
+},
+    "contacts": {
+        "heading": "Contacts",
+        "content":[
+        ["Have a question, an idea, or simply want to learn more? We'd be happy to hear from you. Get in touch using the contact details provided, and we'll do our best to respond as soon as possible.", "Whether you're interested in working together, looking for more information, or just saying hello, every message is welcome."],
+        ["Email: hello@example.com ", "Phone: +00 123 456 789 ", "Address: 123 Example Street ", " ", "We're always happy to connect. Send us a message and let's start a conversation."]
+    ]
+}
+}
